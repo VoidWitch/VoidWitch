@@ -1,6 +1,6 @@
-# Hi, I'm Linyue
+# Hi!
 
-I'm currently enrolled in Nanyang Technological University and am studying for a bachelor's degree in Computer Science (2nd major in business).
+I'm Linyue, currently enrolled in Nanyang Technological University and am studying for a bachelor's degree in Computer Science (2nd major in business).
 
 <!--
 **VoidWitch/VoidWitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
