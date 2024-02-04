@@ -1,4 +1,4 @@
-# Hi👋
+# Hi, I'm Linyue
 
 I'm currently enrolled in Nanyang Technological University and am studying for a bachelor's degree in Computer Science (2nd major in business).
 
