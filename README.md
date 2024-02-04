@@ -1,6 +1,4 @@
-### Hi👋
-
-I'm Linyue, Singaporean (born 2001).
+Hi👋
 
 I'm currently enrolled in Nanyang Technological University and am studying for a bachelor's degree in Computer Science (2nd major in business).
 
